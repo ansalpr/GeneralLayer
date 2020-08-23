@@ -1,0 +1,29 @@
+{
+  "DataBase": [
+    {
+      "type": "main",
+      "name": "common",
+      "id": "root",
+      "pwd": "ansal"
+    },
+    {
+      "type": "mainlog",
+      "name": "commonlog",
+      "id": "root",
+      "pwd": "ansal"
+    },
+    {
+      "type": "general",
+      "name": "generaldb",
+      "id": "root",
+      "pwd": "ansal"
+    }
+
+  ],
+  "key": [
+    {
+      "signature": "cdso38zBg3/H3Kcnl0iNZw==",
+      "primary": "cdso38zBg3/H3Kcnl0iNZw=="
+    }
+  ]
+}

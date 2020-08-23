@@ -1,0 +1,9 @@
+D:\Live Project\GeneralLayer\bin\Debug\GeneralLayer.dll
+D:\Live Project\GeneralLayer\bin\Debug\GeneralLayer.pdb
+D:\Live Project\GeneralLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Live Project\GeneralLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Live Project\GeneralLayer\obj\Debug\GeneralLayer.csprojAssemblyReference.cache
+D:\Live Project\GeneralLayer\obj\Debug\GeneralLayer.csproj.CoreCompileInputs.cache
+D:\Live Project\GeneralLayer\obj\Debug\GeneralLayer.csproj.CopyComplete
+D:\Live Project\GeneralLayer\obj\Debug\GeneralLayer.dll
+D:\Live Project\GeneralLayer\obj\Debug\GeneralLayer.pdb
